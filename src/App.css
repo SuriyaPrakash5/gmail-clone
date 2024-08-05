@@ -1,0 +1,6 @@
+.app {}
+
+.app__body {
+    display: flex;
+    height: calc(100vh - 79.4px);
+}
